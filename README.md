@@ -13,4 +13,4 @@
 - 😄 Pronouns: My pronouns are He/Him but I really don't mind what you call me.
 - ⚡ Fun fact: I really enjoy D&D. (Not because of stranger things dumbass)
 
-[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxherelovescode)](https://github.com/anuraghazra/github-readme-stats)
+[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyingratt)](https://github.com/anuraghazra/github-readme-stats)
